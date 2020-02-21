@@ -1,0 +1,216 @@
+    1  sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --applicationpath /Applications/Install\ OS\ X\ Yosemite.app —nointeraction
+    2  sudo /Applications/Install\ OS\ X\ MacOSXUpdCombo10.6.8.dmg/Contents/Resources/createinstallmedia --volume /Volumes/USB --applicationpath /Applications/Install\ OS\ X\ Yosemite.app —nointeraction
+    3  cd /home
+    4  mkdir meineerste
+    5  touch file
+    6  ls
+    7  ls - a
+    8  ls -la
+    9  cd /~
+   10  cd /
+   11  echo hello
+   12  cd /home
+   13  cat /tmp/files
+   14  mkdir liuba
+   15  echo hello
+   16  mkdir liuba
+   17  cd 
+   18  mkdir liuba
+   19  sudo su
+   20  touch file1
+   21  vi /liebe/file1
+   22  nano /liebe/file1
+   23  nano file1
+   24  cp file1 /liuba
+   25  pwd
+   26  cp file1 /Users/liebe/liba
+   27  cp file1 /Users/liebe/liuba
+   28  mv file1 /Users/liebe/liuba
+   29  vi
+   30  vi
+   31  vi liebe
+   32  pwd
+   33  mkdir home
+   34  cd/ home
+   35  nano
+   36  mkdir test
+   37  mkdir -p test
+   38  ls /users
+   39  pwd
+   40  ls /Users
+   41  history> /Users/history.txt
+   42  history> /Users/liebe/history.txt
+   43  export file  /Users/liebe/history.txt
+   44  export_file /Users/liebe/history.txt
+   45  history > /tmp/history.txt/Users/liebe/
+   46  ssh-key
+   47  ssh-keygen
+   48  cat /Users/liebe/.ssh
+   49  /Users/liebe/.ssh/id_rsa.pub
+   50  /Users/liebe/.ssh/id_rsa.p
+   51  /Users/liebe/.ssh/id_rsa.pub
+   52  cat /Users/liebe/.ssh/id_rsa
+   53  grep andrew
+   54  cd ~/Downloads/
+   55  ls -la | grep andrew
+   56  chmod 400 andrew.pem
+   57  chmod 400 andrew
+   58  chmod 400 andrew.pem
+   59  ls -la | grep andrew
+   60  ssh -i ~/Downloads/andrew.pem ec2-user@18.195.102.143
+   61  kill -9 18749
+   62  kill -9 18877
+   63  kill 1845
+   64  kill 18645
+   65  kill 18787
+   66  kill 19061
+   67  kill18750
+   68  kill 18750
+   69  ssh -i ~/Downloads/andrew.pem ec2-user@18.195.102.143
+   70  htop
+   71  ssh -i ~/Downloads/andrew.pem ec2-user@18.195.102.143
+   72  for run in {1..100} do echo $run sleep5 date +"%H:%M:%S" cat /etc/os-release; done
+   73  for run in {1..100} do echo $run sleep5 date +"%H:%M:%S" cat /etc/os-release  done; done
+   74  for run in {1..100}; do echo $run; sleep5; date +"%H:%M:%S"; cat /etc/os-release; done
+   75  for run in {1..100}; do echo $run; sleep 5; date +"%H:%M:%S"; cat /etc/os-release; done
+   76  for run in {1..5}; do echo $run; sleep 5; date +"%H:%M:%S"; ps -U root; done
+   77  for run in {1..5}; do echo $run; sleep 5; date +"%H:%M:%S"; ps -ef; done
+   78  for run in {1..5}; do echo $run; sleep 5; date +"%H:%M:%S"; ps a | grep -v grep | grep -c tty ; done
+   79  for run in {1..5}; do echo $run; sleep 5; date +"%H:%M:%S"; ps -ef | grep '[c]ron'; done
+   80  for run in {1..5}; do  date +"%H:%M:%S";sleep 5; ps -ef | grep '[c]ron'; done
+   81  for run in {1..5}; do  date +"%H:%M:%S";sleep 5; ps -ef | grep ; done
+   82  for run in {1..5}; do  date +"%H:%M:%S";sleep 5; ps -ef;  grep -A ; done
+   83  clear
+   84  for run in {1..5}; do  date +"%H:%M:%S";sleep 5; wc -l ; done
+   85  for run in {1..5}; do  date +"%H:%M:%S";sleep 5; ps -ef | tail -2 | wc -l ; done
+   86  for run in {1..5}; do  date +"%H:%M:%S";sleep 5; ps -ef | tail 2 | wc -l ; done
+   87  for run in {1..5}; do  date +"%H:%M:%S";sleep 5; ps -ef | tail -2| wc -l; done
+   88  for run in {1..5}; do  date +"%H:%M:%S";sleep 5; ps a | grep tty | wc -l; done
+   89  for run in {1..5}; do  date +"%H:%M:%S";sleep 5; ps-ef | grep tty | wc -l; done
+   90  for run in {1..5}; do  date +"%H:%M:%S";sleep 5; ps -ef | grep tty | wc -l; done
+   91  vi
+   92  for run in {1..5}; do  date +"%H:%M:%S";sleep 5; ps -ef | grep tty | wc -l; done
+   93  for run in {1..5}; do  date +"%H:%M:%S";sleep 5; ps -ef | tail +2 | wc -l; done
+   94  for run in {1..5}; do  date +"%H:%M:%S";sleep 5; ps -ef | tail +2 | wc -l; cat /proc/cpuinfo; done
+   95  cat /ets/os-release | grep NAME | grep -v PRETTY
+   96  cat /ets/os-release | grep NAME
+   97  pwd
+   98  cd telran 10
+   99  cd telran10
+  100  echo "# telran10" >> README2.md
+  101  git add README2.md
+  102  git commit -m "2st commit"
+  103  git remote add origin https://github.com/Liebe81/Telran10.git 
+  104  git push -u origin master 
+  105  git pull origin master
+  106  ls -la
+  107  git push -u -f origin master
+  108  git config --global user.email "Liebe81"
+  109  git config --global user.email liebe.liebe81@gmail.com
+  110  git push -u -f origin maste
+  111  pwd
+  112  vi
+  113  pwd
+  114  mkdir ignor
+  115  cd ignor
+  116  curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  117  ls -la
+  118  head .gitignore
+  119   cat .gitignore
+  120  git config --global core.excludesfile .gitignore
+  121   cat .gitignore
+  122  git init
+  123  cd Programmierung
+  124  cd /User/Liebe/Desktop/IT/Programmierung
+  125  cd~
+  126  cd ~
+  127  cd /User/Liebe/Desktop/IT/Programmierung
+  128  cd Programmierung
+  129  cd Desktop
+  130  cd IT
+  131  cd Programmierung
+  132  cp ignore
+  133  cd ignore
+  134  cd ignor
+  135  cd~
+  136  cd ~
+  137  cd ignor
+  138  cp ~/Desktop/IT/Programmierung/12_02_2020_StarsHA
+  139  ls -la
+  140  cp -r ~/Desktop/IT/Programmierung/12_02_2020_StarsHA
+  141  cp ~/Desktop/IT/Programmierung/12_02_2020_StarsHA/Users/liebe/Desktop/IT/Programmierung/12_02_2020_StarsHA
+  142  cp /Users/liebe/Desktop/IT/Programmierung/12_02_2020_StarsHA
+  143  Air-Lubov:12_02_2020_StarsHA liebe$/Users/liebe/Desktop/IT/Programmierung/12_02_2020_StarsHA
+  144  ls -la
+  145  rm -rf *
+  146  ls -la
+  147  mv 12_02_2020_StarsHA/* .
+  148  ls -la
+  149  rm -rf 12_02_2020_StarsHA
+  150  git status
+  151  git add .
+  152  git commit -m "first commit "
+  153  git remote add origin git@github.com:Liebe81/gitIgnore.git
+  154  git push
+  155  ls - la
+  156  ls -la
+  157  git init
+  158  git add .
+  159  git commit -m "first commit"
+  160  git init
+  161  git push
+  162  git remote add origin git@github.com:Liebe81/gitIgnore.git
+  163  git push
+  164  git add .
+  165  ls -la
+  166  git config --global core.excludesfile .gitignore
+  167  less .gitignore 
+  168  git status
+  169  git add .
+  170  git status
+  171  git remote add origin git@github.com:Liebe81/gitIgnore.git
+  172  git push -u origin master
+  173  cp history
+  174  mkdir his
+  175  cp history >> his
+  176  cp his
+  177  cd his
+  178* 
+  179  ls -la
+  180  cd Liebe
+  181  cd /Users/Liebe
+  182  git add .
+  183  cd Test
+  184  pwd
+  185  git branch        
+  186  cd ~/Desktop/IT/Programmierung/12_02_2020_StarsHA
+  187  git branch
+  188  git status
+  189  pwd
+  190  cd /Users/liebe/Desktop/IT/Programmierung/
+  191  mkdir PullRequest
+  192  cd cd /Users/liebe/Desktop/IT/Programmierung/PullRequest
+  193  echo "# PullRequest" >> README.md
+  194  git init
+  195  git add README.md
+  196  git commit -m "first commit"
+  197  git remote add origin git@github.com:Liebe81/PullRequest.git
+  198  git push -u origin master
+  199  git checkout -b "GH-9-temperature-amplitude"
+  200  date > file.txt
+  201  history > file2.txt
+  202  git add file.txt
+  203  git commit -m "added file.txt"
+  204  echo main > main.c
+  205  add main.c
+  206  git commit -m "added main.c"
+  207  add file2.txt
+  208  git add file2.txt
+  209  git commit -m "added file2.txt"
+  210  pwd
+  211  mkdir PullRequest
+  212  cd /PullRequest
+  213  cd PullRequest
+  214  date > file.txt
+  215  echo main > main.c
+  216  history > file2.txt
